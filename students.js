@@ -28,5 +28,5 @@ let tasksArray = [
   ["Nathalie Nader", "Task 01", "Option 1"],
   ["Mariam Ahmed", "Task 01", "Option 1"],
 ];
-
 ///get Unique names from the array of array using
+export { tasksArray };
